@@ -1,0 +1,16 @@
+{
+	"source" : "builtin",
+	"applications": [{
+		"app_key": "elvissteinjr.PrimaryDesktopOverlay",
+		"launch_type": "binary",
+		"binary_path_windows": "SteamVR-PrimaryDesktopOverlay.exe",
+		"is_dashboard_overlay": true,
+
+		"strings": {
+			"en_us": {
+				"name": "Primary Desktop Overlay",
+				"description": "Primary Desktop Overlay"
+			}
+		}
+	}]
+}
